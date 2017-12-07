@@ -7,7 +7,4 @@ def six_by_seven(num):
         return 'Food'
     else:
         return 'Oops'
-
-num = int(input("Enter a number: "))
-
-print(six_by_seven(num))
+    

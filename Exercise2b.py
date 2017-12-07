@@ -3,7 +3,3 @@ def str_cmp(string1, string2):
         return True
     else:
         return False
-
-string1 = input("Enter first string: ")
-string2 = input("Enter second string: ")
-print(str_cmp(string1, string2))
